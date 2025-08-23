@@ -6,4 +6,4 @@ public enum EstadoCita {
     RECHAZADA,
     CANCELADA,
     COMPLETADA
-} 
+}

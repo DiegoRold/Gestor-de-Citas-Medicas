@@ -15,4 +15,4 @@ public class Paciente extends Usuario {
 
     @Column(name = "numero_seguro_medico")
     private String numeroSeguroMedico;
-} 
+}

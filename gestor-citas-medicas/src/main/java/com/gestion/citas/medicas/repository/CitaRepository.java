@@ -12,4 +12,4 @@ import java.util.List;
 public interface CitaRepository extends JpaRepository<Cita, Integer> {
     List<Cita> findByPaciente(Paciente paciente);
     List<Cita> findByMedico(Medico medico);
-} 
+}

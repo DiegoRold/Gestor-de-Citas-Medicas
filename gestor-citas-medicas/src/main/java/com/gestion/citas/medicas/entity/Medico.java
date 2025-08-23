@@ -15,4 +15,4 @@ public class Medico extends Usuario {
 
     @Column(name = "numero_colegiado", nullable = false, unique = true)
     private String numeroColegiado;
-} 
+}

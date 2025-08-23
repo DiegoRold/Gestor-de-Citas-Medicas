@@ -33,4 +33,4 @@ public class Cita {
 
     @Column(name = "nota_medica")
     private String notaMedica;
-} 
+}
